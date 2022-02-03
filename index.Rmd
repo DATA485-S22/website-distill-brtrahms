@@ -2,6 +2,7 @@
 title: "Test Distill Website;"
 description: |
   Welcome to the website. I hope you enjoy it!
+listing: posts
 site: distill::distill_website
 ---
 
